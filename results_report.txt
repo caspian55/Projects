@@ -1,0 +1,32 @@
+============================================================
+CUSTOMER SUPPORT TICKET ANALYSIS - SUMMARY REPORT
+============================================================
+Total tickets analyzed: 8
+
+By category:
+  Billing                 2  ( 25.0%)
+  Technical Issue         2  ( 25.0%)
+  Account Access          1  ( 12.5%)
+  Feature Request         1  ( 12.5%)
+  Shipping/Delivery       1  ( 12.5%)
+  Refund/Return           1  ( 12.5%)
+
+By sentiment:
+  Negative                4  ( 50.0%)
+  Positive                2  ( 25.0%)
+  Very Negative           1  ( 12.5%)
+  Neutral                 1  ( 12.5%)
+
+By priority:
+  Urgent                  0  (  0.0%)
+  High                    5  ( 62.5%)
+  Medium                  1  ( 12.5%)
+  Low                     2  ( 25.0%)
+
+5 ticket(s) flagged High/Urgent priority:
+  - [T-1001] Customer was charged twice for their subscription and is requesting a refund.
+  - [T-1002] Customer is unable to log into their account due to failed password reset attempts.
+  - [T-1004] App crashes when exporting reports to PDF from dashboard on multiple browsers.
+  - [T-1005] Customer's package was not delivered despite paying for expedited shipping.
+  - [T-1008] Customer is requesting a full refund due to product not meeting advertised claims.
+============================================================

@@ -1,0 +1,9 @@
+ticket_id,subject,description,customer_email,created_at
+T-1001,Charged twice for my subscription,"I was charged $29.99 twice this month for the same Pro plan subscription. This is the second time this has happened and I need a refund for the duplicate charge immediately.",jane.doe@example.com,2026-08-01
+T-1002,Can't log into my account,"I've tried resetting my password three times but the reset email never arrives. I checked spam too. I have an important presentation tomorrow and need access today.",mike.t@example.com,2026-08-02
+T-1003,Feature request: dark mode,"Would love to see a dark mode option in the mobile app. Using it at night is pretty rough on the eyes right now. Not urgent, just a nice-to-have!",sarah.k@example.com,2026-08-02
+T-1004,App crashes when exporting reports,"Every time I try to export a report to PDF from the dashboard, the app freezes and then crashes. This happens consistently on both Chrome and Safari. I've lost work because of this twice now.",david.l@example.com,2026-08-03
+T-1005,Package never arrived,"I ordered a replacement unit two weeks ago and the tracking still shows 'label created'. This is honestly ridiculous, I paid for expedited shipping and got nothing.",priya.n@example.com,2026-08-03
+T-1006,Question about enterprise pricing,"Hi, we're a team of about 40 people looking to upgrade from the team plan to enterprise. Could you send over pricing details and what's included?",ops@bigcorp.example.com,2026-08-04
+T-1007,Thank you for the quick fix,"Just wanted to say the bug I reported last week with the calendar sync got fixed super fast. Really appreciate the responsiveness, great support team!",alex.w@example.com,2026-08-04
+T-1008,Want to cancel and get a refund,"This product does not do what was advertised. I want a full refund and to cancel my account right now. If I don't hear back within 24 hours I'm disputing the charge with my bank.",r.chen@example.com,2026-08-05

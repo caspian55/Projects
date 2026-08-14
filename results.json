@@ -1,0 +1,124 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "category": "Billing",
+    "sentiment": "Negative",
+    "priority": "High",
+    "summary": "Customer was charged twice for their subscription and is requesting a refund.",
+    "suggested_response": "Dear valued customer, we apologize for the inconvenience caused by the duplicate charge. We will process a full refund of $29.99 immediately. Please allow 3-5 business days for the refund to be credited back to your account. If you have any further questions or concerns, please don't hesitate to reach out.",
+    "keywords": [
+      "duplicate charge",
+      "refund",
+      "subscription",
+      "billing error"
+    ],
+    "confidence_notes": "",
+    "raw_model_output": "{\n  \"category\": \"Billing\",\n  \"sentiment\": \"Negative\",\n  \"priority\": \"High\",\n  \"summary\": \"Customer was charged twice for their subscription and is requesting a refund.\",\n  \"suggested_response\": \"Dear valued customer, we apologize for the inconvenience caused by the duplicate charge. We will process a full refund of $29.99 immediately. Please allow 3-5 business days for the refund to be credited back to your account. If you have any further questions or concerns, please don't hesitate to reach out.\",\n  \"keywords\": [\"duplicate charge\", \"refund\", \"subscription\", \"billing error\"]\n}"
+  },
+  {
+    "ticket_id": "T-1002",
+    "category": "Account Access",
+    "sentiment": "Negative",
+    "priority": "High",
+    "summary": "Customer is unable to log into their account due to failed password reset attempts.",
+    "suggested_response": "Dear valued customer, we apologize for the inconvenience you're experiencing with your account access. We understand that this issue is urgent and will do our best to resolve it as soon as possible. Please allow us some time to investigate and assist you further.",
+    "keywords": [
+      "account access",
+      "password reset",
+      "urgent"
+    ],
+    "confidence_notes": "",
+    "raw_model_output": "{\n  \"category\": \"Account Access\",\n  \"sentiment\": \"Negative\",\n  \"priority\": \"High\",\n  \"summary\": \"Customer is unable to log into their account due to failed password reset attempts.\",\n  \"suggested_response\": \"Dear valued customer, we apologize for the inconvenience you're experiencing with your account access. We understand that this issue is urgent and will do our best to resolve it as soon as possible. Please allow us some time to investigate and assist you further.\",\n  \"keywords\": [\"account access\", \"password reset\", \"urgent\"]\n}"
+  },
+  {
+    "ticket_id": "T-1003",
+    "category": "Feature Request",
+    "sentiment": "Positive",
+    "priority": "Low",
+    "summary": "Customer requests dark mode option in mobile app for better nighttime usability.",
+    "suggested_response": "Thank you for sharing your feedback with us. We'll consider adding a dark mode option to our mobile app in future updates. In the meantime, we appreciate your patience and understanding.",
+    "keywords": [
+      "dark mode",
+      "mobile app",
+      "feature request"
+    ],
+    "confidence_notes": "",
+    "raw_model_output": "{\n  \"category\": \"Feature Request\",\n  \"sentiment\": \"Positive\",\n  \"priority\": \"Low\",\n  \"summary\": \"Customer requests dark mode option in mobile app for better nighttime usability.\",\n  \"suggested_response\": \"Thank you for sharing your feedback with us. We'll consider adding a dark mode option to our mobile app in future updates. In the meantime, we appreciate your patience and understanding.\",\n  \"keywords\": [\"dark mode\", \"mobile app\", \"feature request\"]\n}"
+  },
+  {
+    "ticket_id": "T-1004",
+    "category": "Technical Issue",
+    "sentiment": "Negative",
+    "priority": "High",
+    "summary": "App crashes when exporting reports to PDF from dashboard on multiple browsers.",
+    "suggested_response": "Sorry to hear that you're experiencing issues with exporting reports. Can you please try clearing your browser cache and trying again? If the issue persists, we'll be happy to assist further.",
+    "keywords": [
+      "app crash",
+      "export report",
+      "pdf",
+      "dashboard"
+    ],
+    "confidence_notes": "",
+    "raw_model_output": "{\n  \"category\": \"Technical Issue\",\n  \"sentiment\": \"Negative\",\n  \"priority\": \"High\",\n  \"summary\": \"App crashes when exporting reports to PDF from dashboard on multiple browsers.\",\n  \"suggested_response\": \"Sorry to hear that you're experiencing issues with exporting reports. Can you please try clearing your browser cache and trying again? If the issue persists, we'll be happy to assist further.\",\n  \"keywords\": [\"app crash\", \"export report\", \"pdf\", \"dashboard\"]\n}"
+  },
+  {
+    "ticket_id": "T-1005",
+    "category": "Shipping/Delivery",
+    "sentiment": "Very Negative",
+    "priority": "High",
+    "summary": "Customer's package was not delivered despite paying for expedited shipping.",
+    "suggested_response": "Dear valued customer, we apologize for the inconvenience and frustration caused by the delayed delivery of your replacement unit. We understand that you paid for expedited shipping and did not receive it as expected. Please allow us to investigate this matter further and provide a suitable resolution.",
+    "keywords": [
+      "missing package",
+      "expedited shipping",
+      "delayed delivery"
+    ],
+    "confidence_notes": "",
+    "raw_model_output": "{\n  \"category\": \"Shipping/Delivery\",\n  \"sentiment\": \"Very Negative\",\n  \"priority\": \"High\",\n  \"summary\": \"Customer's package was not delivered despite paying for expedited shipping.\",\n  \"suggested_response\": \"Dear valued customer, we apologize for the inconvenience and frustration caused by the delayed delivery of your replacement unit. We understand that you paid for expedited shipping and did not receive it as expected. Please allow us to investigate this matter further and provide a suitable resolution.\",\n  \"keywords\": [\"missing package\", \"expedited shipping\", \"delayed delivery\"]\n}"
+  },
+  {
+    "ticket_id": "T-1006",
+    "category": "Billing",
+    "sentiment": "Neutral",
+    "priority": "Medium",
+    "summary": "Customer inquiring about enterprise pricing for their team of 40.",
+    "suggested_response": "Thank you for reaching out to us. We'd be happy to provide you with more information on our enterprise plan and its pricing details. Please allow 24-48 hours for a response from our sales team, who will be able to answer your questions in full.",
+    "keywords": [
+      "enterprise pricing",
+      "team upgrade",
+      "pricing details"
+    ],
+    "confidence_notes": "",
+    "raw_model_output": "{\n  \"category\": \"Billing\",\n  \"sentiment\": \"Neutral\",\n  \"priority\": \"Medium\",\n  \"summary\": \"Customer inquiring about enterprise pricing for their team of 40.\",\n  \"suggested_response\": \"Thank you for reaching out to us. We'd be happy to provide you with more information on our enterprise plan and its pricing details. Please allow 24-48 hours for a response from our sales team, who will be able to answer your questions in full.\",\n  \"keywords\": [\"enterprise pricing\", \"team upgrade\", \"pricing details\"]\n}"
+  },
+  {
+    "ticket_id": "T-1007",
+    "category": "Technical Issue",
+    "sentiment": "Positive",
+    "priority": "Low",
+    "summary": "Customer reports successful resolution of previously reported bug.",
+    "suggested_response": "Thank you for reaching out to let us know the issue was resolved. We're glad our team could get it fixed quickly for you. If you have any other questions or concerns, feel free to ask!",
+    "keywords": [
+      "calendar sync",
+      "bug fix",
+      "responsive support"
+    ],
+    "confidence_notes": "",
+    "raw_model_output": "{\n  \"category\": \"Technical Issue\",\n  \"sentiment\": \"Positive\",\n  \"priority\": \"Low\",\n  \"summary\": \"Customer reports successful resolution of previously reported bug.\",\n  \"suggested_response\": \"Thank you for reaching out to let us know the issue was resolved. We're glad our team could get it fixed quickly for you. If you have any other questions or concerns, feel free to ask!\",\n  \"keywords\": [\"calendar sync\", \"bug fix\", \"responsive support\"]\n}"
+  },
+  {
+    "ticket_id": "T-1008",
+    "category": "Refund/Return",
+    "sentiment": "Negative",
+    "priority": "High",
+    "summary": "Customer is requesting a full refund due to product not meeting advertised claims.",
+    "suggested_response": "Dear valued customer, we apologize for the inconvenience and understand your frustration. We will process your request for a full refund immediately. Please allow up to 3-5 business days for the refund to be processed. If you have any further concerns or questions, please don't hesitate to reach out.",
+    "keywords": [
+      "refund",
+      "cancel account",
+      "dispute charge"
+    ],
+    "confidence_notes": "",
+    "raw_model_output": "{\n  \"category\": \"Refund/Return\",\n  \"sentiment\": \"Negative\",\n  \"priority\": \"High\",\n  \"summary\": \"Customer is requesting a full refund due to product not meeting advertised claims.\",\n  \"suggested_response\": \"Dear valued customer, we apologize for the inconvenience and understand your frustration. We will process your request for a full refund immediately. Please allow up to 3-5 business days for the refund to be processed. If you have any further concerns or questions, please don't hesitate to reach out.\",\n  \"keywords\": [\"refund\", \"cancel account\", \"dispute charge\"]\n}"
+  }
+]
